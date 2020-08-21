@@ -1,0 +1,178 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	font-size: 20px;
+	color: #DCDCDC; /*light gray*/
+	background-color: white;
+	font-family: 'Comfortaa', cursive;
+}
+
+#logo-img {
+	margin: 10px 15px 10px;
+}
+
+#logo {
+	font-size: 4em;
+	color: #404040; /*light gray*/
+	font-family: 'Sacramento', cursive;
+}
+
+.navbar-brand {
+	padding-bottom: 25px;
+}
+
+.fa-instagram {
+    font-size:20px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fa-youtube-square {
+    color: #bb0000;
+}
+
+.fa-tiktok {
+	color: black;
+}
+
+.fa-heart {
+    color: #fcdef2;
+}
+
+.fab {
+	padding: 8px;
+}
+
+footer {
+	background-color: #cdf4fa;
+	color: white;
+	margin-top: 50px;
+	padding-top: 30px;
+}
+
+.carousel-item {
+	height:75vh;
+}
+
+.carousel-caption h1{
+	font-size: 4em;
+	font-family: 'Sacramento', cursive;
+}
+
+.card-title {
+	font-family: 'Sacramento', cursive;
+	font-size: 2em;
+	color: #fcdef2;
+	font-weight: bold;
+}
+
+#card-body-text {
+	font-family: 'Comfortaa', cursive;
+	color: white;
+	line-height: 1.7;
+}
+
+#last-updated {
+	font-family: 'Sacramento', cursive;
+	font-size: 1.5em;
+}
+
+.card{
+	background-color: #d6d6d6;
+	margin: 50px;
+}
+
+#img-grid-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  padding: 60px;
+}
+
+#img-grid-col {
+  flex: 30%;
+  max-width: 30%;
+  padding-right: 20px;
+}
+
+#img-grid-col img {
+  margin-top: 20px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - 2 col for img gallery */
+@media screen and (max-width: 800px) {
+  #img-grid-col {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - 1 col for img gallery */
+@media screen and (max-width: 600px) {
+  #img-grid-col {
+    flex: 100%;
+    max-width: 100%;
+  }
+} 
+
+#watch-heading {
+	text-align: center;
+	color: #fcdef2;
+	font-size: 3em;
+}
+
+#shop-heading {
+	color: #fcdef2;
+	margin-left: 60px;
+	padding-top: 20px;
+}
+
+#prod-grid-col {
+  flex: 25%;
+  max-width: 25%;
+  padding-right: 20px;
+}
+
+#prod-grid-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+#prod-grid-col img {
+  margin-top: 20px;
+  vertical-align: middle;
+  width: 100%;
+  padding: 50px;
+}
+
+/* Responsive layout - 2 col for prod gallery */
+@media screen and (max-width: 800px) {
+  #prod-grid-col {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - 1 col for prod gallery */
+@media screen and (max-width: 600px) {
+  #prod-grid-col {
+    flex: 100%;
+    max-width: 100%;
+  }
+} 
+
+figcaption {
+	color: black;
+	font-size: 1.5em;
+}
