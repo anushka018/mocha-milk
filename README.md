@@ -5,7 +5,8 @@ Site URL: https://anushka018.github.io/mocha-milk/
 
 # site-screenshots
 
-<img src="images/home.PNG" width-"500">
+<img src="images/home.PNG" width="500">
+
 ![](images/home.PNG)
 ![](images/about.PNG)
 ![](images/videos.PNG)
