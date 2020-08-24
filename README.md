@@ -5,11 +5,12 @@ Site URL: https://anushka018.github.io/mocha-milk/
 
 # site-screenshots
 
-<img src="images/home.PNG" width="500">
+<img src="images/home.PNG" width="600">
+<img src="images/about.PNG" width="600">
+<img src="images/videos.PNG" width="600">
+<img src="images/gallery.PNG" width="600">
+<img src="images/shop.PNG" width="600">
 
-![](images/home.PNG)
-![](images/about.PNG)
-![](images/videos.PNG)
-![](images/gallery.PNG)
-![](images/shop.PNG)
+
+
 
