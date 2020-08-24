@@ -5,9 +5,9 @@ Site URL: https://anushka018.github.io/mocha-milk/
 
 # site-screenshots
 
-![](images/home.png)
-![](images/about.png)
-![](images/videos.png)
-![](images/gallery.png)
-![](images/shop.png)
+![](images/home.PNG)
+![](images/about.PNG)
+![](images/videos.PNG)
+![](images/gallery.PNG)
+![](images/shop.PNG)
 
