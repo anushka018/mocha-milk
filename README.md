@@ -1,6 +1,8 @@
 # mocha-milk
 This is a website created for the popular YouTube dog vloggers Milk the Samoyed and Mocha the Pomeranian
 
+Find their YouTube channel here: https://www.youtube.com/channel/UCnjyiWHGEyww-p8QYSftx2A
+
 Site URL: https://anushka018.github.io/mocha-milk/
 
 # site-screenshots
